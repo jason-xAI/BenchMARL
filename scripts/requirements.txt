@@ -1,0 +1,8 @@
+torch
+torchvision
+torchrl
+tqdm 
+tensorboard
+wandb
+vmas
+pyvirtualdisplay
